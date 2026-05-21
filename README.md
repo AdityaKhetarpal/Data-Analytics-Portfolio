@@ -12,6 +12,7 @@ Welcome to my data analytics showcase. Below are three production-grade data pro
   * Proved a 3x higher attrition rate among overtime staff due to severe workflow burnout.
   * Identified an average 30% monthly wage deficit between departing employees (\$4,787/mo) and retained talent (\$6,832/mo).
 
+
 ---
 
 ## Project 2: E-Commerce Revenue Audit & Global Sales Performance
