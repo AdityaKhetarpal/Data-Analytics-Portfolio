@@ -8,7 +8,7 @@ Welcome to my data analytics showcase. Below are three production-grade data pro
 
 ## Project 1: Corporate Talent Attrition & Retention Diagnostic
 * Tools Used: Python (Pandas, Matplotlib), Tableau Public
-* Tableau Project File Name: Corporate Talent Attrition and Retention Dashboard.twbx 
+* Tableau Project File Name: Corporate Talent Attrition and Retention Dashboard
 
 ### Core Insights Summary:
 * Workflow Burnout Isolation: Isolated key organizational triggers behind employee turnover across 1,400+ corporate records, proving a 3x higher attrition rate among staff working overtime.
