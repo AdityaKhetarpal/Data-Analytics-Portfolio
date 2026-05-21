@@ -4,9 +4,6 @@ A collection of my Python and Tableau data analysis projects
 # Professional Data Analytics Portfolio
 Welcome to my data analytics showcase. Below are three production-grade data projects leveraging Python for data engineering/diagnostic analysis and Tableau for executive-level business intelligence.
 
-# 📊 Professional Data Analytics Portfolio
-Welcome to my data analytics showcase. Below are three production-grade data projects leveraging Python for data engineering/diagnostic analysis and Tableau for executive-level business intelligence.
-
 ---
 
 ## Project 1: Corporate Talent Attrition & Retention Diagnostic
