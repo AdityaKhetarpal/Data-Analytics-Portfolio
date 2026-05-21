@@ -8,7 +8,7 @@ Welcome to my data analytics showcase. Below are three production-grade data pro
 
 ## Project 1: Corporate Talent Attrition & Retention Diagnostic
 * Tools Used: Python (Pandas, Matplotlib), Tableau Public
-* Tableau Project File: [Download HR Workbook (.twbx)](corporate-retention-dashboard.twbx)
+* Tableau Project File Name: Corporate Talent Attrition and Retention Dashboard.twbx 
 
 ### Core Insights Summary:
 * Workflow Burnout Isolation: Isolated key organizational triggers behind employee turnover across 1,400+ corporate records, proving a 3x higher attrition rate among staff working overtime.
@@ -18,7 +18,7 @@ Welcome to my data analytics showcase. Below are three production-grade data pro
 
 ## Project 2: E-Commerce Revenue Audit & Global Sales Performance
 * Tools Used: Python (Pandas, Matplotlib), Tableau Public
-* Tableau Project File: [Download E-Commerce Workbook (.twbx)](ecommerce-sales-dashboard.twbx)
+* Tableau Project File Name: E-Commerce Revenue & Sales Performance
 
 ### Core Insights Summary:
 * Seasonality Tracking: Engineered a transactional diagnostic tool to audit global retail operations and implemented datetime transformations to isolate core Q4 holiday seasonal sales spikes, specifically identifying November as the primary revenue velocity engine.
@@ -28,7 +28,7 @@ Welcome to my data analytics showcase. Below are three production-grade data pro
 
 ## Project 3: Netflix Global Content & Streaming Trends
 * Tools Used: Python (Pandas, Matplotlib), Tableau Public
-* Tableau Project File: [Download Netflix Workbook (.twbx)](netflix-trends-dashboard.twbx)
+* Tableau Project File Name: Netflix Global Content & Streaming Trends
 
 ### Core Insights Summary:
 * Catalog Transformation Tracking: Cleaned and parsed legacy streaming catalogs using Python to calculate the precise macro distribution split between Movies and TV Shows.
