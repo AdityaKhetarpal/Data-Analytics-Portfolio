@@ -8,7 +8,7 @@ Welcome to my data analytics showcase. Below are three production-grade data pro
 
 ## Project 1: CreditWise Operational Underwriting & Risk Engine
 * Tools Used: SQL (MySQL/SQLite), Python (Pandas, Matplotlib), Tableau Desktop
-* Tableau Project File Name: SecureTrust Underwriting Risk Audit
+* Tableau Project File Name: CreditWise Executive Risk Dashboard
 
 ### Core Insights Summary:
 * Underwriting Boundary Isolation: Audited 816 historical credit profiles using advanced database aggregations to reverse-engineer implicit risk guidelines, exposing a strict, non-negotiable credit score floor of 651 and a maximum Debt-to-Income (DTI) ceiling of 39% across all approved accounts.
