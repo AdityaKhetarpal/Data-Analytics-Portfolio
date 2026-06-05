@@ -6,7 +6,17 @@ Welcome to my data analytics showcase. Below are three production-grade data pro
 
 ---
 
-## Project 1: Corporate Talent Attrition & Retention Diagnostic
+## Project 1: CreditWise Operational Underwriting & Risk Engine
+* Tools Used: SQL (MySQL/SQLite), Python (Pandas, Matplotlib), Tableau Desktop
+* Tableau Project File Name: SecureTrust Underwriting Risk Audit
+
+### Core Insights Summary:
+* Underwriting Boundary Isolation: Audited 816 historical credit profiles using advanced database aggregations to reverse-engineer implicit risk guidelines, exposing a strict, non-negotiable credit score floor of 651 and a maximum Debt-to-Income (DTI) ceiling of 39% across all approved accounts.
+* Operational Velocity Optimization: Developed a vectorized Python rule engine to automate baseline compliance evaluations, successfully accelerating manual application review cycles from multiple business days to sub-second execution speeds while generating standardized, audit-ready data logs.
+
+---
+
+## Project 2: Corporate Talent Attrition & Retention Diagnostic
 * Tools Used: Python (Pandas, Matplotlib), Tableau Public
 * Tableau Project File Name: Corporate Talent Attrition and Retention Dashboard
 
@@ -16,7 +26,7 @@ Welcome to my data analytics showcase. Below are three production-grade data pro
 
 ---
 
-## Project 2: E-Commerce Revenue Audit & Global Sales Performance
+## Project 3: E-Commerce Revenue Audit & Global Sales Performance
 * Tools Used: Python (Pandas, Matplotlib), Tableau Public
 * Tableau Project File Name: E-Commerce Revenue & Sales Performance
 
@@ -26,7 +36,7 @@ Welcome to my data analytics showcase. Below are three production-grade data pro
 
 ---
 
-## Project 3: Netflix Global Content & Streaming Trends
+## Project 4: Netflix Global Content & Streaming Trends
 * Tools Used: Python (Pandas, Matplotlib), Tableau Public
 * Tableau Project File Name: Netflix Global Content & Streaming Trends
 
