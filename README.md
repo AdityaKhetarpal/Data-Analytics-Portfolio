@@ -43,3 +43,14 @@ Welcome to my data analytics showcase. Below are three production-grade data pro
 ### Core Insights Summary:
 * Catalog Transformation Tracking: Cleaned and parsed legacy streaming catalogs using Python to calculate the precise macro distribution split between Movies and TV Shows.
 * Strategic Pivot Identification: Modeled historical content additions over time to visualize a major historical pivot toward television-first production models starting in 2015, capturing the platform's response to the "Streaming Wars."
+
+---
+
+## Project 5: Enterprise Customer Lifecycle & RFM Segmentation Pipeline
+* **Tools Used:** Python (Pandas, NumPy), SQL (SQLite3), Power BI Desktop
+* **Power BI Project File Name:** Executive Customer Segmentation Dashboard
+
+### Core Insights Summary:
+* **Algorithmic Value Engineering:** Automated a multi-stage data engine to transform 1M+ rows of granular transaction logs into structured customer profiles, applying algorithmic quantile-scoring across Recency, Frequency, and Monetary (RFM) distributions to classify distinct lifecycle tiers.
+* **Wealth Concentration Discovery:** Built cross-visual database models proving a sharp Pareto-distribution effect; a relatively small group of "Champions" completely dominated total wealth metrics, driving a massive, disproportionate share of the overall **$17.74M** store revenue.
+* **Risk Attrition Warning:** Deployed an advanced Ribbon Chart visualization to isolate high-risk customer migrations. Successfully pinpointed an immediate **$2.3M** financial band tied to 2.4K "At Risk" users with declining recency, giving retention marketers a distinct, targeted audience for win-back campaigns.
