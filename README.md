@@ -65,6 +65,3 @@ Welcome to my data analytics showcase. Below are six production-grade data proje
 * **Fulfillment Overhead Diagnostics:** Architected an end-to-end Python pipeline to calculate total structural fulfillment overhead per SKU line, exposing hidden margin deficits where production and logistics costs exceeded gross retail prices.
 * **Carrier Efficiency Mapping:** Engineered a multi-dimensional scatter matrix tracking end-to-end operational velocity against transport costs, pinpointing optimized carrier-route combinations and isolating slow, high-cost logistical bottlenecks.
 * **Quality Assurance Auditing:** Built database auditing structures and active gauge matrices to monitor compliance thresholds, mapping out specific transit networks generating high defect rates (exceeding acceptable 3% corporate limits).
-
-🖼️ **Dashboard Interface:**
-![Supply Chain Dashboard](supply_chain_dashboard.png)
