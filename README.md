@@ -65,3 +65,18 @@ Welcome to my data analytics showcase. Below are six production-grade data proje
 * **Fulfillment Overhead Diagnostics:** Architected an end-to-end Python pipeline to calculate total structural fulfillment overhead per SKU line, exposing hidden margin deficits where production and logistics costs exceeded gross retail prices.
 * **Carrier Efficiency Mapping:** Engineered a multi-dimensional scatter matrix tracking end-to-end operational velocity against transport costs, pinpointing optimized carrier-route combinations and isolating slow, high-cost logistical bottlenecks.
 * **Quality Assurance Auditing:** Built database auditing structures and active gauge matrices to monitor compliance thresholds, mapping out specific transit networks generating high defect rates (exceeding acceptable 3% corporate limits).
+
+---
+
+# Project 7: Retail Revenue Audit 
+
+* **Tools Used:** Python (Pandas), SQL (SQLite3), Power BI Desktop
+* **Power BI Project File Name:** Retail
+
+## Core Insights & Analytics Summary
+
+* **Chronological Baseline Normalization:** Developed an automated Python data hygiene script using structural date-pattern verification to stop critical timeline parsing corruption, successfully neutralizing international day-first variations that jumbled Q4 December revenue datasets into Q1 January logs.
+* **Database-Layer Efficiency Engineering:** Shuffled heavy calculation overhead away from front-end DAX engines by pre-computing a Rolling 3-Month Moving Average using explicit window frames (`ROWS BETWEEN 2 PRECEDING AND CURRENT ROW`) directly inside an in-memory SQLite warehouse layer, completely eliminating dashboard rendering lag and circular dependency loop failures.
+* **Affinity & Wealth Concentration Discovery:** Built advanced relational self-join database structures to isolate high-probability checkout bundles and cross-selling combinations sharing identical invoice logs. Mapped these accounts to a Pareto-distribution Treemap to visually expose structural risk vulnerabilities, documenting exactly how a fractional group of high-volume customer IDs drive the dominant share of multi-million dollar store revenue.
+
+
